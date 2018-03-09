@@ -1,0 +1,28 @@
+# Create A list of tuples, which carry username, password
+
+credentials = [
+("Rachel.Collins@revemarketing.biz", "Reve12345"),
+("Sarah.Watson@revemarketing.biz", "Reve1234"),
+("Maria.Gonzalez@revemarketing.biz", "Reve1234"),
+("Matt.Thompson@revemarketing.biz", "Reve1234"),
+("Jenny.peterson@reve.marketing", "Reve1234"),
+("Lisa.carter@reve.marketing", "Reve1234"),
+("Brendan.jamison@reve.marketing", "Reve1234"),
+("Cole.mcbeth@reve.marketing", "Reve1234"),
+("Jake.palmer@reve.marketing", "Reve1234"),
+("Beth.Flanagan@revemarketing.email", "Reve1234"),
+("Kim.Leary@revemarketing.email", "Reve1234"),
+("Helen.Morris@revemarketing.email", "Reve1234"),
+("Autumn.Robbins@revemarketing.email", "Reve1234"),
+("Brenna.Kent@revemarketing.email", "Reve1234"),
+("Emily.Tan@revemarketing.co", "Reve1234"),
+("Courtney.Singer@revemarketing.co", "Reve1234"),
+("Brian.Allen@revemarketing.co", "Reve1234"),
+("Lori.Ford@revemarketing.co", "Reve1234"),
+("Stephanie.Brown@revemarketing.co", "Reve1234"),
+("Holly.Whitmore@revemarketing.net", "Reve1234"),
+("Karen.Metz@revemarketing.net", "Reve1234"),
+("Brian.Greely@revemarketing.net", "Reve1234"),
+("Hannah.Murdock@revemarketing.net", "Reve1234"),
+("Nick.Brock@revemarketing.net", "Reve1234"),
+]
